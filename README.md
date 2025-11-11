@@ -1,4 +1,5 @@
 Problem statement
+
 ----Most of the ancient temples in Tamil Nadu are in decline due to environmental damage, lack of attention, and insufficient documentation.The current system for managing temples lacks a detailed and centralized way to track temple conditions and restoration activities.
 
 Solution
